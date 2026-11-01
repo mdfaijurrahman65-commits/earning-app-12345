@@ -1,0 +1,24 @@
+{
+  "siteName": "BD Job Alert (বিডি জব অ্যালার্ট)",
+  "siteTagline": "সকল সরকারি, ব্যাংক ও বেসরকারি চাকরির দ্রুততম সার্কুলার ও আবেদন পোর্টাল",
+  "siteLogoUrl": "/assets/aistudio/Messenger_creation_1773221167128179_d7e80833.jpeg",
+  "noticeText": "📢 নতুন বিজ্ঞপ্তি: বাংলাদেশ রেলওয়ে ও প্রাথমিক শিক্ষক নিয়োগের আবেদন চলছে! শেষ তারিখের আগেই আবেদন সম্পন্ন করুন।",
+  "contactEmail": "contact@bdjobcircular.com",
+  "contactPhone": "+880 1700-000000",
+  "facebookGroupUrl": "https://facebook.com",
+  "telegramChannelUrl": "https://t.me",
+  "adminPin": "admin123",
+  "adSense": {
+    "enabled": true,
+    "publisherId": "ca-pub-1234567890123456",
+    "headerSlot": "1234567890",
+    "inFeedSlot": "2345678901",
+    "articleTopSlot": "3456789012",
+    "articleBottomSlot": "4567890123",
+    "sidebarSlot": "5678901234",
+    "stickyFooterSlot": "6789012345",
+    "autoAds": true
+  },
+  "adsMode": "demo",
+  "adsTxt": "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0"
+}

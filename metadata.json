@@ -1,0 +1,6 @@
+{
+  "name": "বিডি জবস সার্কুলার - BD Job Circular Portal",
+  "description": "নিয়মিত সরকারি, ব্যাংক ও বেসরকারি চাকরির সার্কুলার, পরীক্ষার সময়সূচি ও আবেদনের সর্বশেষ তথ্য।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
